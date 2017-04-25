@@ -1,0 +1,44 @@
+.headersection {
+	background: #fff none repeat scroll 0 0;
+	color: #FFF;
+	min-height: 200px;
+}
+	.icon a {
+	background: #4fc291 none repeat scroll 0 0;
+	border-radius: 2px;
+	color: #fff;
+	display: block;
+	float: left;
+	font-size: 20px;
+	margin-left: 3px;
+	padding: 5px 10px;
+}
+.footersection {
+	min-height: 250px;
+	background: #48a74c;
+	text-align: center;
+}
+.footer-copyright {
+	text-align: center;
+	width: 960px;
+	background-color: seagreen;
+	padding: 20px;
+	clear: both;
+	color: white;
+}
+.navsection {
+	background: none repeat scroll 0 0 #26cf7b;
+	min-height: 38px;
+}
+.samesidebar h2 {
+	background: #48a74c none repeat scroll 0 0;
+	border-bottom: 2px solid #b7801c;
+	color: #FFF;
+	margin-bottom: 8px;
+	padding: 10px;
+	text-transform: uppercase;
+}
+.samepost h2 a {
+	color: #48a74c;
+	text-decoration: none;
+}
